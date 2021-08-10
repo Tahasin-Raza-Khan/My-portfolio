@@ -7,6 +7,6 @@ My name is Tahasin Raza Khan , I am a competitive programmer enthusiast and love
 * Clone the repository.
 * Explore the project.
 * Find a bug.
-* Fix thr bug.
+* Fix the bug.
 * Send a Pull Request.
 
